@@ -60,8 +60,8 @@ CFD also offers the possibility to investigate various flow scenarios and can me
 
 Where is CFD used?
 
-Basically, CFD has been vital in aerospace and aviation, 
-One should know that Today the design of more efficient and aerodynamically stable aircraft and or more efficients fuel mixing or reduction of aircraft nose is deeply deepending of more efficient CFD simulatons. 
+Basically, CFD has been vital in aerospace and aviation, This is where CFD was initially used and continues to see its most significant advancements to date.
+One should know that Today the design of more efficient and aerodynamically stable aircraft and or more efficients fuel mixing or reduction of aircraft nose is deeply deepending on more efficient CFD simulatons. 
 
 
 
