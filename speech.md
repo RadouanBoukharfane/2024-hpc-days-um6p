@@ -73,7 +73,9 @@ Please enjoy the mosaic of all this simulations! I spent more than 30 minutes co
 ### Slide 07
 ------------
 
-Given all these applications, we need HPC to pave the way for new innovations. In order to investigate real-world problems, we need more computing power to improve processing speed, which is critical for many computing operations, applications, and workloads. Additionally, we need HPC capabilities for storage, as large CFD computations typically cannot fit into the memory of a single machine.
+Given all these applications, we need HPC to pave the way for new innovations. In order to investigate real-world problems, we need more computing power to improve processing speed, which is critical for many computing operations, applications, and workloads.
+
+We need HPC capabilities for storage, as large CFD computations typically cannot fit into the memory of a single machine.
 
 
 
@@ -82,9 +84,9 @@ Given all these applications, we need HPC to pave the way for new innovations. I
 
 You have probably heard of it before, but for those who haven't, NASA established a 2030 roadmap for Computational Fluid Dynamics (CFD) in 2014. This roadmap aims to provide all CFD researchers with a knowledge-based forecast of the future computational capabilities required for simulating turbulent, transitional, and reacting flows.
 
-One of the cornerstones of this vision is the development of truly enabling technologies, such as high-order entropy-stable schemes, combined with innovative solvers on large-scale HPC hardware, and the assessment of uncertainty quantification and propagation of errors in CFD simulations.
+One of the cornerstones of this vision is the development of truly enabling technologies, such as high-order entropy-stable schemes, combined with innovative solvers on large-scale HPC hardware.
 
-The success of the strategy relies heavily on High-Performance Computing (HPC).
+As a consequence, yhe success of the strategy relies heavily on High-Performance Computing (HPC) advancement.
 
 ### Slide 08
 ------------
@@ -96,7 +98,8 @@ As I mentioned earlier, CFD involves solving partial differential equations (PDE
 ------------
 
 
-In computational fluid dynamics (CFD), turbulence modeling relies on three fundamental approaches, each varying in computational cost and accuracy. Direct Numerical Simulation (DNS) offers high accuracy by resolving all spatial and temporal scales of the computational domain. However, due to its immense computational demands, DNS is primarily a research tool for fundamental scientific problems. An alternative, the Reynolds-Averaged Navier-Stokes Equations (RANS), simplifies fluid flows by either ignoring small-scale flows (Large Eddy Simulation, LES) or averaging fluctuating values over time. While RANS equations reduce computational time and memory requirements compared to DNS, the accuracy of simulations is affected as turbulence is only modeled and not fully resolved.
+In computational fluid dynamics (CFD), turbulence modeling relies on three fundamental approaches, each varying in computational cost and accuracy. Direct Numerical Simulation (DNS) offers high accuracy by resolving all spatial and temporal scales of the computational domain. However, due to its immense computational demands, DNS is primarily a research tool for fundamental scientific problems. An alternative, the Reynolds-Averaged Navier-Stokes Equations (RANS) that reduces the cos by averaging fluctuating values over time or LES that solvers only big-scale flow. 
+
 
 ### Slide 10
 ------------
